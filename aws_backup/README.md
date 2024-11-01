@@ -33,8 +33,14 @@ Before using this script, ensure you have:
 
 1. **Clone the repository**:
    ```bash
+<<<<<<< HEAD
    git clone <repository-url>
    cd <repository-directory>
+=======
+   git clone git clone https://github.com/guezoloic/ServerConfig.git
+
+   cd aws_backup/
+>>>>>>> aws
    ```
 
 2. **Ensure the script is executable**:
